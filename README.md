@@ -1,8 +1,8 @@
-# SSL Management - Hosting Shared Server web hosting
+# SSL Management - Hostinger and Let's Encrypt
 
 Updated: 8 Novmeber 2021
 
-How to Create and Manage SSL Certs on your Mac to install on Hostinger for shared server static web content.
+How to Create and Manage SSL Certs with Let's Encrypt on your Mac to install on Hostinger for shared server static web content.
 
 To install the cert on Hostinger you will need access to the .well-know directory in the public_html directory of your domain.  Right now I beleive the only way to get this to work is to point your DNS record to Hostinger DNS servers:  
 Hostinger Name Servers
