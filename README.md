@@ -24,7 +24,7 @@ When generating the key for each domain, don't forget to specifiy both the domai
 
 Certbot with then tell you the file name and file contents to place in the .well-know/acme-challenge directory.  Do not presse the enter key until you have set this up on your target domain.  
 
-If you certbot can correctly access the file, it will generate the necessary keys for your SSL cert and tell you which directory they are stored in.  Add the following keys to the text fields listed on hostinger's Install SSL paged.
+If you certbot can correctly access the file, it will generate the necessary keys for your SSL cert and tell you which directory they are stored in.  Add the following keys to the text fields listed on hostinger's Install SSL page.
 Certbot Key | Hostinger Field
 ----------- | ---------------
 cert.pem | Cert Key
