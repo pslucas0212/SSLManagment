@@ -18,7 +18,7 @@ brew install certbot
 
 Run certbot for certifcate only in manual mode
 ```
-sudo cerbot certonly --manual
+sudo certbot certonly --manual
 ```
 When generating the key for each domain, don't forget to specifiy both the domain name and FQDN.  Ex. www.bob.com and bob.com
 
