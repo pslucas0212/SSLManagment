@@ -15,6 +15,12 @@ Install certbot - You made need to install xcode command line tools
 brew install certbot
 ```
 
+Note: To run brew you will need to install brew and the Apple xCode tools on your Mac
+
+To install brew do the following:
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 Run certbot for certifcate only in manual mode
 ```
