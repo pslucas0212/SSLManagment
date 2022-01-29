@@ -15,7 +15,7 @@ Install certbot - You made need to install xcode command line tools
 brew install certbot
 ```
 
-Note: To run brew you will need to install brew and the Apple xCode tools on your Mac
+Note: To run brew you will need to install brew and the Apple Xcod tools on your Mac.  Apple Xcode will be run as part of the brew install.
 
 To install brew run the following command from the Mac terminal:
 ```
