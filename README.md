@@ -1,6 +1,6 @@
 # SSL Management - Hostinger and Let's Encrypt
 
-Updated: 8 Novmeber 2021
+Updated: 29 January 2022
 
 How to Create and Manage SSL Certs with Let's Encrypt on your Mac to install on Hostinger for shared server static web content.
 
@@ -17,9 +17,9 @@ brew install certbot
 
 Note: To run brew you will need to install brew and the Apple xCode tools on your Mac
 
-To install brew do the following:
+To install brew run the following command from the Mac terminal:
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 Run certbot for certifcate only in manual mode
